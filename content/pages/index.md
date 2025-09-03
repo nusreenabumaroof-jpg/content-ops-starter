@@ -1,5 +1,5 @@
 ---
-title: Home
+title: الصفحه الرئيسية
 slug: /
 sections:
   - posts:
